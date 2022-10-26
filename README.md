@@ -4,6 +4,7 @@
 <div align="center">
 
 
+![gif_drone_animation](https://user-images.githubusercontent.com/6937636/198063180-ab45e78c-c24a-46e8-85d2-5ad5be948507.gif)
 
 </div>
 
